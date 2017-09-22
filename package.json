@@ -1,0 +1,20 @@
+{
+  "name": "ninja_koder-module8_3",
+  "version": "1.0.0",
+  "description": "Tworzenie środowiska pracy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ninja_test"
+  },
+  "keywords": [
+    "optymalizacja"
+  ],
+  "author": "ninja_koder",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}

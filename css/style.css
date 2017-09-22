@@ -1,0 +1,21 @@
+.jumbotron {
+  background-image: url(https://static.pexels.com/photos/365341/pexels-photo-365341.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 90vh;
+  margin-top: 2rem; }
+
+.cards {
+  background-color: #87B7CB;
+  padding-top: 15vh;
+  padding-bottom: 30px; }
+  .cards .card {
+    margin: auto;
+    border: 5px solid #50514F;
+    border-radius: 5px; }
+    .cards .card img {
+      padding: 10px;
+      border-radius: 15px; }
+
+/*# sourceMappingURL=style.css.map */
