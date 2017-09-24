@@ -11,19 +11,19 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'css/style.css': 'sass/main.sass'
+          'css/style.css': 'sass/style.sass'
         }
       }
     },
 
     watch: {
-        scripts: {
-            files: ['sass/*.sass'],
-            tasks: ['sass'],
-            options: {
-                spawn: false,
-            },
-        }
+      scripts: {
+        files: ['sass/*.sass'],
+        tasks: ['sass'],
+        options: {
+          spawn: false,
+        },
+      }
     }
 
   });
